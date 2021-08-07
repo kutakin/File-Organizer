@@ -5,8 +5,8 @@ from os.path import isfile, join
 import shutil
 import time
 
-source = r'E:\Documents\Data Science\Copying files based on date modified\Sample Files'
-destination = r'E:\Documents\Data Science\Copying files based on date modified\Final Files'
+source = r'<Enter Source Path>'
+destination = r'<Enter Destination Path>'
 
 os.chdir(source)
 
