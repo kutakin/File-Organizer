@@ -1,0 +1,3 @@
+This mini python project organizes your files by making a copy of your files into folders based on the date the file is modified. 
+This will be a very useful tool when you have a significant number of files in a folder and would like the files funnelled into different folders based on the last modified date. 
+The program creates the folder in your chosen path. You need to provide a source path where your files are located and run the program.
